@@ -1,5 +1,3 @@
-# apps-with-graphql
-
 <h1 align="center">Building automations with GitHub Apps and GraphQL</h1>
 <h5 align="center">@ahoglund and @tarebyte</h3>
 
