@@ -8,7 +8,7 @@
   <a href="#books-resources">Resources</a>
 </p>
 
-> Workshop Description.
+Have you ever wondered how to make cool robots that can help manage repositories? This session will show you how to bootstrap a GitHub App and get it running in under one hour. Speakers Mark Tareshawty and Andrew Hoglund will walk you through selecting composite resources from the GraphQL API and generating a starter application in JavaScript with authentication.
 
 ## :mega: Prerequisites
 Please have the following installed in your workstation:
