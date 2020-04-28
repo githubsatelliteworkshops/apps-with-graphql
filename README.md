@@ -1,5 +1,6 @@
 <h1 align="center">Building automations with GitHub Apps and GraphQL</h1>
-<h5 align="center">@ahoglund and @tarebyte</h3>
+<h5 align="center">Facilitators: @ahoglund and @tarebyte</h3>
+<h5 align="center">Chat Moderators: @gwestersf, @jovel, and @jpemberthy</h3>
 
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
