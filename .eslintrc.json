@@ -15,6 +15,9 @@
       "ecmaVersion": 2018
     },
     "rules": {
-      "quotes": ["error", "double"]
+      "quotes": ["error", "double"],
+      "new-cap": [2, {
+        "newIsCap": false
+      }]
     }
 }
