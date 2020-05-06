@@ -6,18 +6,18 @@
   },
   "extends": [
     "standard"
-    ],
-    "globals": {
-      "Atomics": "readonly",
-      "SharedArrayBuffer": "readonly"
-    },
-    "parserOptions": {
-      "ecmaVersion": 2018
-    },
-    "rules": {
-      "quotes": ["error", "double"],
-      "new-cap": [2, {
-        "newIsCap": false
-      }]
-    }
+  ],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "rules": {
+    "quotes": ["error", "double"],
+    "new-cap": [2, {
+      "newIsCap": false
+    }]
+  }
 }
