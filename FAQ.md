@@ -8,15 +8,15 @@ You can download it from [here](https://github.com/githubsatelliteworkshops/apps
 
 The workshop code and pre reqs can be found [here](https://github.com/githubsatelliteworkshops/apps-with-graphql#mega-prerequisites).
 
-## What do I need to do to clean up my?
+## What do I need to do to clean up?
 
 You delete an app by navigating to [GitHub Apps settings page](https://github.com/settings/apps), select your app, select `Advanced`, and finally use one of the options in the `Danger Zone`.
 
 More directly, navigate to `https://github.com/settings/apps/<YOUR_APP_NAME>/advanced`
 
-## What's the difference between GitHub Apps vs OAuth App?
+## What's the difference between GitHub Apps vs OAuth Apps?
 
-A breakdown of the difference between GitHub Apps vs OAuth App can be found in [the developer docs](https://developer.github.com/apps/differences-between-apps/). In general, we recommend using GitHub Apps since it was finer grain permissions over OAuth Apps.
+A breakdown of the difference between GitHub Apps vs OAuth Apps can be found in [the developer docs](https://developer.github.com/apps/differences-between-apps/). In general, we recommend using GitHub Apps since it was finer grain permissions over OAuth Apps.
 
 ## How do I access GitHub's GraphQL Explorer?
 
@@ -25,6 +25,12 @@ GitHub's GraphQL Explorer can be found [here](https://developer.github.com/v4/ex
 ## Where can I find out more about GitHub's GraphQL?
 
 Basic intro on GraphQL can be found [here](https://graphql.org/). And docs on GitHub's GraphQL API can be found [here](https://developer.github.com/v4/)
+
+## Where can I find out more about GitHub's GraphQL mutations?
+
+You can learn more about GitHub’s GraphQL mutations [here](https://developer.github.com/v4/guides/forming-calls/#about-query-and-mutation-operations)
+
+The list available mutations can be found [here](https://developer.github.com/v4/mutation/)
 
 ## What's smee.io and do I have to use it?
 
