@@ -48,7 +48,7 @@ Go to `https://github.com/settings/apps/`, click `edit` on the GitHub App, and s
 
 Or, navigate directly to ` https://github.com/settings/apps/<YOUR_APP_NAME>#private-key`
 
-## I just want to see complete code. What do I do?
+## I just want to see the complete code. What do I do?
 
 To see everything running, you still need to setup a GitHub App, smee.io channel, and a test repo to apply the GitHub App to as shown in the workshop's video.
 
